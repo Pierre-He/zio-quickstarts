@@ -1,4 +1,4 @@
-scalaVersion := "2.13.8"
+scalaVersion := "2.13.14"
 organization := "dev.zio"
 
 libraryDependencies ++= Seq(
